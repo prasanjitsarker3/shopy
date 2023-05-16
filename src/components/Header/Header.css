@@ -16,3 +16,6 @@ nav.header a{
 nav.header a:hover{
     color: orange;
 }
+.userEmail{
+    color: aliceblue;
+}
